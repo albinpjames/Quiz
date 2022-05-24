@@ -2,7 +2,7 @@
 
 ___
 
-# My quizzing bio from the article featured in q4quzzing.com
+# My quizzing bio from a article featured in q4quzzing.com
 ## Childhood
 I am from a place named Pattazhy which is sandwiched between the Pathanamthitta and Kollam district, but I spent most of my childhood in the capital city of Thiruvananthapuram.
 
